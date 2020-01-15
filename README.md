@@ -5,6 +5,14 @@ Created a cross-platform mobile app that gives directions to a sight impaired us
 #### Open Sourced: 
 Would love to get this out as quick as possible to really make an impact for the sight impaired Comminity
 
+Backend
+https://github.com/NyleD/FoundU-/tree/master/FoundU%20Backend
+
+Documentation: https://github.com/NyleD/FoundU-/blob/master/FoundU%20Backend/README.MD
+
+Frontend Components
+https://github.com/NyleD/FoundU-/tree/master/components
+
 #### Technologies: 
 - React.js
 - React Native
