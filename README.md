@@ -17,7 +17,7 @@ https://github.com/NyleD/FoundU-/tree/master/components
 - React.js
 - React Native
 - MongoDB
-- Javascript
+- Node.js
 - RNSimpleCompass
 
 #### Next Steps:
