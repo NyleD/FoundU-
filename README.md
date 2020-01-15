@@ -18,7 +18,6 @@ https://github.com/NyleD/FoundU-/tree/master/components
 - React Native
 - MongoDB
 - Node.js
-- RNSimpleCompass
 
 #### Next Steps:
 - Replace our ordinary sound files, with binural sounds. 
